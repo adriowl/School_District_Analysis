@@ -1,5 +1,5 @@
 # School_District_Analysis
-##Overview of Election Audit
+## Overview of Election Audit
 
 The purpose of this election audit analysis was to provide an easy to understand report of the election data contained in election_results.csv. We aim to answer expected questions that are usually asked, like, who won? Or How many people voted? We provide that information in two ways: through printing to the terminal, or writing to a text file that can be sent to anyone who needs this information.
 
