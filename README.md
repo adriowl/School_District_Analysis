@@ -1,22 +1,28 @@
 # School_District_Analysis
 ##Overview of Election Audit
+
 The purpose of this election audit analysis was to provide an easy to understand report of the election data contained in election_results.csv. We aim to answer expected questions that are usually asked, like, who won? Or How many people voted? We provide that information in two ways: through printing to the terminal, or writing to a text file that can be sent to anyone who needs this information.
 
 ## Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 -How many votes were cast in this congressional election?
+
 ![TotalVotes](Resources/TotalVotes.png)
 
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
 ![CountyVotes](Resources/CountyVotes.png)
 
 -Which county had the largest number of votes?
+
 ![LargestCounty](Resources/LargestCounty.png)
 
 -Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
 ![CandidateVotes](Resources/CandidateVotes.png)
 
 -Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
 ![Winner](Resources/Winner.png)
 
 ## Election-Audit Summary
